@@ -1,5 +1,5 @@
 clear;clc;close all
 simulate
 estimate 
-%truthPlotter
-errorPlotter
+truthPlotter
+%errorPlotter
